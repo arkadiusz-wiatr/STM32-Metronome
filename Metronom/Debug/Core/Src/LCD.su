@@ -1,0 +1,12 @@
+LCD.c:10:6:LCD_writeHalf	16	static
+LCD.c:20:6:LCD_writeByte	16	static
+LCD.c:31:6:LCD_writeCmd	16	static
+LCD.c:38:6:LCD_writeData	16	static
+LCD.c:44:6:LCD_init	8	static
+LCD.c:51:6:LCD_display	280	static
+LCD.c:65:6:LCD_cursorPosition	16	static
+LCD.c:77:6:LCD_pinsInput	32	static
+LCD.c:86:6:LCD_pinsOutput	32	static
+LCD.c:95:9:LCD_readHalf	16	static
+LCD.c:108:9:LCD_readByte	16	static
+LCD.c:123:9:LCD_busyFlag	8	static

@@ -1,0 +1,14 @@
+usart.c:50:6:MX_USART2_UART_Init	8	static
+usart.c:68:6:HAL_UART_MspInit	48	static
+usart.c:101:6:HAL_UART_MspDeInit	16	static
+usart.c:128:6:HAL_UART_TxCpltCallback	24	static
+usart.c:141:6:HAL_UART_RxCpltCallback	16	static
+usart.c:155:6:UART_GetChar	16	static
+usart.c:168:6:UART_Send_Tx	224	static,ignoring_inline_asm
+usart.c:203:6:AppendChar	24	static
+usart.c:209:5:SendFrame	136	static
+usart.c:260:9:CheckSum	24	static
+usart.c:275:6:ClearPayload	16	static
+usart.c:283:6:ClearChecksumAndAddresses	16	static
+usart.c:288:6:AnalyzeFrame	8	static
+usart.c:302:6:DecodeFrame	16	static
